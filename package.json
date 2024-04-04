@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "sass": "^1.72.0"
-  }
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  },
+  "name": "r408_spaceinvader_april24",
+  "version": "1.0.0",
+  "description": "a space invader Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "space",
+    "invader",
+    "game",
+    "mmi"
+  ],
+  "author": "ythirion",
+  "license": "ISC"
 }
